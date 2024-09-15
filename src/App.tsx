@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useState } from "react";
 import AddBookForm from "./components/AddBookForm";
 import BookList from "./components/BookList";
