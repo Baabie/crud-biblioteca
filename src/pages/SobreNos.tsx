@@ -1,0 +1,3 @@
+export function SobreNos() {
+  return <></>;
+}
